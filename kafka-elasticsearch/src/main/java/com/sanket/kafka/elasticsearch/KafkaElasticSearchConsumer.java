@@ -79,9 +79,9 @@ public class KafkaElasticSearchConsumer {
 
 
     private static RestHighLevelClient getElasticsearchClient() {
-        String host = "kafka-course-1932439202.ap-southeast-2.bonsaisearch.net";
-        String username = "umhod0z9ox";
-        String password = "knrg06vfh9";
+        String host = "";
+        String username = "";
+        String password = "";
 
         final CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
         credentialsProvider.setCredentials(AuthScope.ANY,
