@@ -26,10 +26,10 @@ import java.util.concurrent.TimeUnit;
 public class KafkaTwitterMain {
 
     private final static Logger LOGGER = LoggerFactory.getLogger(KafkaTwitterMain.class);
-    private final static String consumerApiKey = "";
-    private final static String consumerApiSecret = "";
-    private final static String accessToken = "155574716-";
-    private final static String accessTokenSecret = "";
+    private final static String consumerApiKey = "vfNjS88ehfB7GlbdnaJ3Houdg";
+    private final static String consumerApiSecret = "Itm4gz3yyBjMqAvTsc8GiPVTQIKvp6BLeYVzzo5DoYPx5Nvcve";
+    private final static String accessToken = "155574716-L7Gu5cpeKp30cs3zlWRaMGj5aCYNFHZjGICiXR0i";
+    private final static String accessTokenSecret = "yY5A79nsyOe8Hy7pTAUTHznfsUhgE0WRSXQIL8BanNoa9";
 
 
     public static void main(String[] args) {
